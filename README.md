@@ -106,3 +106,5 @@ GitHubアカウント: [@kylenorthernscript](https://github.com/kylenorthernscri
 ---
 
 *「コードも猫も、愛情を込めて育てることが大切だにゃん 🐾」*
+## メンバー紹介
+- 別の担当者：きゃる
