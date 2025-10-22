@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="89c3876d-c392-42a5-88ca-ae2c12edc395" name="変更" comment="">
-      <change beforePath="$PROJECT_DIR$/.github/workflows/html-validator.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/html-validator.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,7 +61,7 @@
       <option name="presentableId" value="Default" />
       <updated>1760593494385</updated>
       <workItem from="1760593496996" duration="4392000" />
-      <workItem from="1760748003086" duration="9339000" />
+      <workItem from="1760748003086" duration="9665000" />
     </task>
     <servers />
   </component>
