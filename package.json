@@ -1,0 +1,11 @@
+{
+  "name": "html-test-project",
+  "version": "1.0.0",
+  "description": "HTML validator test",
+  "scripts": {
+    "test": "html-validator --file=./test.html"
+  },
+  "devDependencies": {
+    "html-validator-cli": "^8.0.0"
+  }
+}
